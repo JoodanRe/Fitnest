@@ -3,7 +3,7 @@ Set-by-step installation guide
 QuickStart: Setting up server
   This app is intend to serve multiple users with one server running. Each user must signup on first use, and login when using the created account. To set    up a server, please follow the instructions below.
   
-To Insall and run:
+To Install and run:
 
 Step 1: Clone the GitHub Repo:
 
